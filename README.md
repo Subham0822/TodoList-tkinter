@@ -21,7 +21,7 @@ A simple and user-friendly ToDo List application built using Tkinter in Python. 
   - Text: Black (#000000).
 
 ## Screenshot
-[Click here]()
+[Click here](screenshot.png)
 
 ## Getting Started
 ### Prerequisites
