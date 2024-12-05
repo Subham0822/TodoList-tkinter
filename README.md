@@ -29,7 +29,7 @@ A simple and user-friendly ToDo List application built using Tkinter in Python. 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todolist-tkinter.git
+   git clone https://github.com/subham0822/todolist-tkinter.git
 2. Navigate to the project directory:
    ```bash
    cd todolist-tkinter
